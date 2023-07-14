@@ -1,7 +1,7 @@
 ### Olá, sou Yorran Petrick e seja bem vindo(a) ao meu perfil 😁😊
 
 - 👨🏼‍🎓 Atualmente graduando em Sistemas de Informação.
-- 📚 Estou aprendendo Ciência de Dados.
+- 📚 Estou aprendendo Desenvolvimento Mobile com Flutter.
 - ✈ Desejo para o futuro ? Emergir para o mecado internacional.
 - 😄 Pronomes: Ele/Dele
 
