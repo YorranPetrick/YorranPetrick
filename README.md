@@ -8,5 +8,7 @@
 ![Yorran GitHub stats](https://github-readme-stats.vercel.app/api?username=YorranPetrick&show_icons=true&theme=tokyonight)
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yorran-petrick/)
+[![flutter](https://img.shields.io/badge/flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)](https://flutter.dev/)
+
 
 
