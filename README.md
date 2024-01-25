@@ -8,10 +8,11 @@
 - 😄 Pronomes: Ele/Dele
 
 ![Yorran GitHub stats](https://github-readme-stats.vercel.app/api?username=YorranPetrick&show_icons=true&theme=tokyonight)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YorranPetrick&layout=compact)](https://github.com/YorranPetrick/github-readme-stats)
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yorran-petrick/)
 [![flutter](https://img.shields.io/badge/flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)](https://flutter.dev/)
-[![SQFlite](https://th.bing.com/th/id/R.b21b38c4053d25dceb5f301e4c63b132rik=2xbg2raFa4rgBQ&pid=ImgRaw&r=0?style=for-the-badge&logo=flutter&logoColor=white)]
+[![SQFlite](style=for-the-badge&logo=flutter&logoColor=white)]
 
 
 
