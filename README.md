@@ -2,7 +2,7 @@
 
 ### Olá, sou Yorran Petrick e seja bem vindo(a) ao meu perfil 😁😊
 
-- 👨🏼‍🎓 Atualmente graduando em Sistemas de Informação.
+- 👨🏼‍🎓 Atualmente graduando em Sistemas de Informação pela Universidade Federal do Pará.
 - 💻 Técnico em Informática.
 - 📚 Estou aprendendo Desenvolvimento Mobile com kotlin e Java.
 - Proximos aprendizados ? Kotlin Multiplataforma e Jetpack Compose.
