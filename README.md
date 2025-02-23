@@ -4,7 +4,7 @@
 
 - 👨🏼‍🎓 Atualmente graduando em Sistemas de Informação pela Universidade Federal do Pará.
 - ✔️ Técnico em Informática.
-- 📚 Estou aprendendo Desenvolvimento Mobile com kotlin e Java.
+- 📚 Estou aprendendo Desenvolvimento com kotlin e Java.
 - 💻 Proximos aprendizados ? Kotlin Multiplataforma e Jetpack Compose.
 - ✈ Desejo para o futuro ? Emergir para o mecado internacional.
 - 😄 Pronomes: Ele/Dele
